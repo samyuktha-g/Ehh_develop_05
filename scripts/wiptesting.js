@@ -113,7 +113,7 @@
 
 
 function testGS() {
-    var requestURL = "https://script.google.com/macros/s/AKfycbzs1uHX-vtR_Vj2uwNoBvOt5kHAO0m8t9eFXOujtgof9pJW0qqA/exec?username=jsmith&age=21";
+    var requestURL = "https://script.google.com/a/0dot1.live/macros/s/AKfycbyOQZ3JCvko4kI8_Fr9PoZjJA0ERjQftjHwf70VZwkf/dev";
     // requestURL.setHeader('Access-Control-Allow-Origin', '*');
     //let headers = new Headers();
     // headers.append('Access-Control-Allow-Credentials', 'false');
